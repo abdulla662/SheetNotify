@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+.vs/
+service-account.json
+appsettings.Development.json
+logsift-state.txt
